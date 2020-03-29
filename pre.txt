@@ -1,4 +1,6 @@
 tokyo
 osaka
+miyagi
+fukishima
 kyoto
 saitama
